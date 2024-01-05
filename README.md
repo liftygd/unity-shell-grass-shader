@@ -1,8 +1,10 @@
-# Unity Shell Grass Shader
+# Unity Shell Grass Shader (URP)
 A shader for making grass using different shells with noise.
 
 To manipulate the shader and preview how the grass looks you use the shell generator script. Press the 3 dots and then generate to see the grass.
 When the game starts the preview grass will be removed and then generated again to avoid problems with creating material instances in editor.
+
+Made it in URP, don't know if it works in built-in.
 
 # Examples
 ![image](https://github.com/liftygd/unity-shell-grass-shader/assets/114353696/5de7978f-5883-41b6-b271-1fc3af41b131)
